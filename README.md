@@ -21,7 +21,7 @@ The configuration keeps the current shortcuts and adapts the two machine-specifi
 3. Clone this repository:
 
    ```sh
-   git clone <github-repository-url> ~/Projects/wezterm-config
+   git clone https://github.com/davedoodz/wezterm-config.git ~/Projects/wezterm-config
    ```
 
 4. If `~/.wezterm.lua` already exists, inspect and preserve it before continuing.
