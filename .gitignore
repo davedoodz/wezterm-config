@@ -1,0 +1,8 @@
+# Original local capture; the normalized copy lives in reference/.
+UsersDavidDesktopkeys_dump.txt
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
